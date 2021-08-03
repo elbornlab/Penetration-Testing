@@ -8,8 +8,11 @@ This goal is to assist security engineers, developers and architects to perform 
 
 1. [Overview](#overview)
 2. [Methodology](#methodology)
-    1. [Cloud](#cloud)
-3. [Routes](#routes)
+    1. [Information gathering](#infogather)
+3. [Cloud](#cloud)
+- **Testing on the Cloud**
+- **Testing in the Cloud**
+- **Testing the Cloud Console**
 
 ## Overview
 
