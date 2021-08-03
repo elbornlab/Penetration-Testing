@@ -8,19 +8,8 @@ This goal is to assist security engineers, developers and architects to perform 
 
 1. [Overview](#overview)
 2. [Methodology](#methodology)
-    1. [Views](#views)
+    1. [Cloud](#cloud)
 3. [Routes](#routes)
-4. [Controller](#controller)
-5. [Models](#model)
-    1. [checks table](#checks)
-6. [Attack Engine](#attackengine)
-    1. [Attack Calls](#attackcalls)
-7. [Java Scripts Used](#js)
-    1. [Timer check for script to run](#timerjs)
-8. [Redis and Heroku](#redisandheroku)
-    1. [Useful Heroku comamnds](#herokucommands)
-    2. [Sidekiq overview and how to deploy to Heroku](#sidekiq)
-    23. [Sidekiq overview and how to deploy to Heroku](#sidekiq)
 
 ## Overview
 
