@@ -25,6 +25,15 @@ This goal is to assist security engineers, developers and architects to perform 
 ## Overview
 
 ## Methodology <a name="methodology"></a>
+A general methodology can be used and tweaked for specific use cases.
+- **Information gathering, version of application/server by inspecting response headers**
+- **Access Handling, understand mechanism of registration/login/logout/data attacks**
+- **Test Session mgmt, session cookies, flags set, CSRF**
+- **Authentication tests, Info leakage, error handling**
+- **Input Handling**
+- **Appllication Hosting, AWS Console, test webserver** 
+- **Webscraping and DNS checks for assosciated target domains**
+- **Infra hardening checks (DB, Linux and network)![image](https://user-images.githubusercontent.com/88375238/128005230-4f77b974-81b3-42c0-84a0-09f7c7e8fca3.png)**
 
 
 
